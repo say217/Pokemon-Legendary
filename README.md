@@ -1,4 +1,4 @@
-
+ 
 # Pokémon Legendary Classification Project
 
 This project focuses on building a **classification model** to predict whether a Pokémon is **legendary or non-legendary** based on its attributes. The dataset contains 801 Pokémon with detailed stats, types, abilities, and other battle-related characteristics.
